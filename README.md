@@ -1,5 +1,7 @@
 # COMP 3005 - Assignment 3
 
+Youtube link: https://youtu.be/ToBeFilledInå
+
 To run this python console application, you need to do the following:
 
 1. Install the required packages by running the following command:
