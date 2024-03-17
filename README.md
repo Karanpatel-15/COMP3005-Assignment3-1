@@ -1,6 +1,6 @@
 # COMP 3005 - Assignment 3.1
 
-Youtube link: https://youtu.be/ToBeFilledInå
+Youtube link: https://youtu.be/IXz9_RoGl-g
 
 To run this python console application, you need to do the following:
 
